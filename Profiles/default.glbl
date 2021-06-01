@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/katalon/Documents/APK/API Demos for Android_v1.9.0_apkpure.com.apk'</initValue>
+      <name>APK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Global default text from Profiles'</initValue>
+      <name>globaltext</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

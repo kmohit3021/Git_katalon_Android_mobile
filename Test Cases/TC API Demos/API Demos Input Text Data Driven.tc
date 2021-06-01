@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API Demos Input Text Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fd6bce7-6ffe-478b-a91c-1fe2bd4c8216</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59f3d85e-7980-421c-a826-8b0679908afe</id>
+      <masked>false</masked>
+      <name>Plaintext</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45878478-c6ee-437c-95fa-79d7dc6e1d2f</id>
+      <masked>false</masked>
+      <name>Ciphertext</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c65a924-59ea-4df2-ae80-199a2e86d5b9</id>
+      <masked>false</masked>
+      <name>Alias</name>
+   </variable>
+</TestCaseEntity>
